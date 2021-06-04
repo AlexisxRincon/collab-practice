@@ -1,0 +1,35 @@
+.nav-background {
+    background-color: orange;
+    color: purple;
+}
+.left-container {
+    height: 60vh;
+    background-color: rgb(192, 216, 86);
+    color:rgb(61, 90, 129);
+}
+
+.right-container {
+    height: 60vh;
+    background-color: blue;
+    color:crimson;
+}
+
+.footer {
+    background-color:aquamarine;
+    color:antiquewhite;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-content: center; 
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+li {
+    display: flex;
+    align-items:center;
+}
